@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#I plan on learning the fundamentals of the operating systems architechture, in a pursut to gain employment in a systems engineer role. Kubernetes etc.
+
+#I will accomplish this by developing a roadmap of learing designed to install basic principles as fundamentals to my approach.
+
